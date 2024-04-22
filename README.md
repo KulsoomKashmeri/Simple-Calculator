@@ -1,1 +1,1 @@
-"# kashmeri-simple-calculater" 
+"# kashmeri-simple-calculator" 
